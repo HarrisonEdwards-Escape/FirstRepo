@@ -1,6 +1,7 @@
 #include <iostream>
-#include "Inventory.h"
 #include "Item.h"
+#include "Inventory.h"
+
 
 int main()
 {
